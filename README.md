@@ -23,8 +23,9 @@ wget -O gitopiaIDN.sh https://raw.githubusercontent.com/bent0000/Gitopia-IBC/mai
 ```
 
 
-Anda juga dapat melakukan [Instalasi Manual] (https://github.com/bent0000/Gitopia-IBC/blob/main/manual.md) 
-
+  # Install Manual
+  
+Anda juga dapat melakukan ==> [Instalasi Manual](https://github.com/bent0000/Gitopia-IBC/blob/main/manual.md) 
 
 
 # 2) Continue. 
