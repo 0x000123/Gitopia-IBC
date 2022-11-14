@@ -22,6 +22,11 @@ NODE TYPE | CPU     | RAM      | SSD     |
 wget -O gitopiaIDN.sh https://raw.githubusercontent.com/bent0000/Gitopia-IBC/main/gitopiaIDN.sh && chmod +x gitopiaIDN.sh && ./gitopiaIDN.sh
 ```
 
+
+Anda juga dapat melakukan [Instalasi Manual] (https://github.com/bent0000/Gitopia-IBC/blob/main/manual.md) 
+
+
+
 # 2) Continue. 
 
 ## To check the sync status:
