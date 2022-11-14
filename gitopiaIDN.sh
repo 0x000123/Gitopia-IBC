@@ -16,7 +16,7 @@ echo -e "\e[0m"
 sleep 3
 
 if [ ! $NODENAME ]; then
-	read -p "Enter your moniker name: " NODENAME
+	read -p "Pilih nama node anda: " NODENAME
 	echo 'export NODENAME='$NODENAME >> $HOME/.bash_profile
 fi
 
