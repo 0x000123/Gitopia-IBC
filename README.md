@@ -82,7 +82,7 @@ gitopiad tx staking create-validator \
   --pubkey  $(gitopiad tendermint show-validator) \
   --moniker $NODENAME \
   --chain-id gitopia-janus-testnet-2 \
-  --website="http://linktr.ee/LossNode" \
+  --website="http://twitter.com/Kyozer_er" \
   --details="Testing the Gitopia"
 ```
 
