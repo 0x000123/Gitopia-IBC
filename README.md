@@ -19,7 +19,7 @@ NODE TYPE | CPU     | RAM      | SSD     |
 # 1.) Scripted installation with StateSync.
 
 ```
-wget -O gitopiaIDN.sh https://raw.githubusercontent.com/bent0000/Gitopia-IBC/main/gitopiaIDN.sh && chmod +x gitopiaIDN.sh && ./gitopiaIDN.sh
+wget -O gitopiaIDN.sh https://raw.githubusercontent.com/0x000123/Gitopia-IBC/main/gitopiaIDN.sh && chmod +x gitopiaIDN.sh && ./gitopiaIDN.sh
 ```
 
 
